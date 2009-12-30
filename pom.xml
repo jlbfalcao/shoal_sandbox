@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>shoal_sandbox</groupId>
+    <artifactId>shoal_sandbox</artifactId>
+    <version>1.0</version>
+
+
+    <!--
+    mvn install:install-file -Dfile=jxta.jar -DgroupId=net.java.shoal -DartifactId=jxta -Dversion=1.1 -Dpackaging=jar
+    mvn install:install-file -Dfile=shoal-gms.jar -DgroupId=net.java.shoal -DartifactId=shoal-gms -Dversion=1.1 -Dpackaging=jar
+    -->
+
+    <dependencies>
+        <dependency>
+            <groupId>net.java.shoal</groupId>
+            <artifactId>jxta</artifactId>
+            <version>1.1</version>
+        </dependency>
+        <dependency>
+            <groupId>net.java.shoal</groupId>
+            <artifactId>shoal-gms</artifactId>
+            <version>1.1</version>
+        </dependency>
+        <dependency>
+            <groupId>jline</groupId>
+            <artifactId>jline</artifactId>
+            <version>0.9.93</version>
+        </dependency>
+
+    </dependencies>
+
+
+    <build>
+        <plugins>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>2.0.2</version>
+                <configuration>
+                    <source>1.6</source>
+                    <target>1.6</target>
+                </configuration>
+            </plugin>
+
+
+        </plugins>
+
+
+    </build>
+
+
+</project>
