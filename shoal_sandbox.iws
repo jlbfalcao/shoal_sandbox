@@ -69,7 +69,7 @@
       <file leaf-file-name="Console.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Console.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="476" selection-end="476" vertical-scroll-proportion="0.53667265">
+            <state line="20" column="0" selection-start="476" selection-end="476" vertical-scroll-proportion="0.5226481">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -421,7 +421,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33374083" sideWeight="0.66445184" order="3" side_tool="false" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18520783" sideWeight="0.66445184" order="0" side_tool="false" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18520783" sideWeight="0.66445184" order="0" side_tool="false" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" />
       <window_info id="Web Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" />
@@ -479,7 +479,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Console.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="476" selection-end="476" vertical-scroll-proportion="0.53667265">
+        <state line="20" column="0" selection-start="476" selection-end="476" vertical-scroll-proportion="0.5226481">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
